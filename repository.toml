@@ -1,0 +1,10 @@
+[repository]
+name = "LookingGlass Base Repository"
+url = "https://github.com/pastel-iris/repo-base"
+description = "Base templates repository for LookingGlass"
+authors = []
+categories = []
+
+[source]
+type = "Git"
+name = "pastel-iris/repo-base"
